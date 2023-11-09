@@ -1,5 +1,5 @@
 [![MasterHead](https://i.imgur.com/hocQG7g.png)](https://github.com/Rodioo)
-<h3 align="center">Software developer mainly focused on Full Stack Web Development & Mobile Development for both iOS/Android</h3>
+<h2 align="center">Software developer mainly focused on Full Stack Web Development & Mobile Development for both iOS/Android</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
