@@ -1,6 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/Rodioo)
-<h1 align="center">Hi 👋, I'm Antonio</h1>
-<h3 align="center">Android developer with a passion for building innovative and user-friendly apps and software</h3>
+[![MasterHead](https://i.imgur.com/hocQG7g.png)](https://github.com/Rodioo)
+<h3 align="center">Software developer mainly focused on Full Stack Web Development & Mobile Development for both iOS/Android</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
@@ -8,9 +7,9 @@
 
 - 🔭 I’m currently working on [RodiTimer](https://github.com/Rodioo/RodiTimer)
 
-- 🌱 I’m currently learning **Compose KMM, Design Patterns**
+- 🌱 I’m currently learning **TypeScript & Advanced React concepts**
 
-- 👯 I’m looking to collaborate on **Android open source projects**
+- 👯 I’m looking to collaborate on **Web & Mobile open source projects**
 
 - 📫 How to reach me **antonio.falcescu@gmail.com**
 
