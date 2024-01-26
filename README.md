@@ -4,7 +4,7 @@
 
 - 💼 I have been working as a Software Developer for 2 years, using mostly JavaScript(React and Node.js), Kotlin and Java(Spring Boot)
 
-- 📝 I enjoy writing web development articles on [Medium](https://medium.com/@antonio.falcescu)
+- 📝 I write web development articles on [Medium](https://medium.com/@antonio.falcescu)
 
 - 🔭 My primary side project is [My Personal Site](https://github.com/Rodioo/personal-site)
 
