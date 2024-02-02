@@ -6,7 +6,7 @@
 
 - 📝 I write web development articles on [Medium](https://medium.com/@antonio.falcescu)
 
-- 🔭 My primary side project is [My Personal Site](https://github.com/Rodioo/personal-site)
+- 🔭 My primary side project is [Kinotion](https://github.com/Rodioo/kinotion)
 
 - 🌱 I’m currently learning **Go** so that I can build my own Interpreter
 
