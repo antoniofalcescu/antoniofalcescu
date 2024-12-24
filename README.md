@@ -6,7 +6,7 @@
 
 - 📝 I write web development articles on [Medium](https://medium.com/@antonio.falcescu)
 
-- 🔭 My primary side project is [LeetNotion](https://github.com/Rodioo/leetnotion-backend)
+- 🔭 My primary side project is [LeetNotion](https://github.com/antoniofalcescu/leetnotion-backend)
 
 - 🌱 I’m currently learning **Go** so that I can build my own Interpreter
 
@@ -30,7 +30,7 @@
 
 </h3>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodioo&show_icons=true&locale=en&layout=compact" alt="rodioo" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniofalcescu&show_icons=true&locale=en&layout=compact" alt="antoniofalcescu" />
 
 <h3 align="left">
   Frameworks:
